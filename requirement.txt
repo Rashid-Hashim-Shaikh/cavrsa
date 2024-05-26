@@ -1,6 +1,6 @@
 CAVRSA
-    1. Nav bar clean up (add logo)
-    2. Home section - (Side images)
+    1. Nav bar clean up (add logo) - DONE
+    2. Home section - (Side images) - DONE
     3. Mission vission
     4. Services (instead of products)
     5. Why choose me section

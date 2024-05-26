@@ -8,6 +8,7 @@ import {
   SpecialOffer,
   Subscribe,
   SuperQuality,
+  Mission,
 } from "./sections";
 
 const App = () => {
@@ -16,6 +17,9 @@ const App = () => {
       <Nav />
       <section className='xl:padding-l wide:padding-r padding-b'>
         <Hero />
+      </section>
+      <section className='padding'>
+        <Mission />
       </section>
       <section className='padding'>
         <PopularProducts />
