@@ -10,9 +10,9 @@ const Nav = () => {
           <img
             src={headerLogo}
             alt='logo'
-            width={129}
+            width={29}
             height={29}
-            className='m-0 w-[129px] h-[29px]'
+            className='m-0 w-[60px] h-[60px]'
           />
         </a>
         <ul className='flex-1 flex justify-center items-center gap-16 max-lg:hidden'>
