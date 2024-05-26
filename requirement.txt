@@ -1,0 +1,11 @@
+CAVRSA
+    1. Nav bar clean up (add logo)
+    2. Home section - (Side images)
+    3. Mission vission
+    4. Services (instead of products)
+    5. Why choose me section
+    6. what my client says (optional)
+    7. Address with map(optional)
+    8. contact me Form and whatsapp connect Form(Very important)
+    9. Footer clean up
+    10. fav icon etc
