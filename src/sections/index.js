@@ -1,6 +1,6 @@
 import Hero from "./Hero";
 import Mission from "./Mission";
-import PopularProducts from "./PopularProducts";
+import PopularServices from "./PopularServices";
 import SuperQuality from "./SuperQuality";
 import Services from "./Services";
 import SpecialOffer from "./SpecialOffer";
@@ -11,7 +11,7 @@ import Footer from "./Footer";
 export {
     Hero,
     Mission,
-    PopularProducts,
+    PopularServices,
     SuperQuality,
     Services,
     SpecialOffer,

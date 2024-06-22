@@ -3,7 +3,7 @@ import {
   CustomerReviews,
   Footer,
   Hero,
-  PopularProducts,
+  PopularServices,
   Services,
   SpecialOffer,
   Subscribe,
@@ -21,10 +21,10 @@ const App = () => {
       <section>
         <Mission />
       </section>
-      {/* <section className='padding'>
-        <PopularProducts />
-      </section>
       <section className='padding'>
+        <PopularServices />
+      </section>
+      {/* <section className='padding'>
         <SuperQuality />
       </section>
       <section className='padding-x py-10'>
@@ -41,7 +41,7 @@ const App = () => {
       </section>
       <section className=' bg-black padding-x padding-t pb-8'>
         <Footer />
-      </section> */}
+      </section>  */}
     </main>
   );
 };
