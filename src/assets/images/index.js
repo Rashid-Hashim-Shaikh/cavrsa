@@ -21,6 +21,16 @@ import thumbnailShoe1 from './thumbnail-shoe1.svg'
 import thumbnailShoe2 from './thumbnail-shoe2.svg'
 import thumbnailShoe3 from './thumbnail-shoe3.svg'
 
+import accounts from './accounts.jpg'
+import tax1 from './tax1.jpg'
+import tax2 from './tax2.jpg'
+import gst from './gst.jpg'
+import finance from './finance.jpg'
+import tds from './tds.jpg'
+import company from './company.jpg'
+import wealth from './wealth.jpg'
+
+
 export {
     bigShoe1,
     bigShoe2,
@@ -42,5 +52,14 @@ export {
     thumbnailBackground,
     thumbnailShoe1,
     thumbnailShoe2,
-    thumbnailShoe3
+    thumbnailShoe3,
+
+    accounts,
+    tax1,
+    tax2,
+    gst,
+    finance,
+    tds,
+    company,
+    wealth,
 }
