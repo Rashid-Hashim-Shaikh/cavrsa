@@ -1,8 +1,8 @@
 import React from "react";
 
-const PopularServiceCard = ({imgURL, title, description }) => {
+const PopularServiceCard = ({imgURL, title, description, id }) => {
   return (
-    <div className='flex even:flex-row-reverse gap-3 w-full max-sm:w-full items-center'>
+    <div className={`flex ${id % 2 === 0 ? "flex-row": "flex-row-reverse"} gap-3 w-full max-sm:w-full max-sm:flex-col items-center`}>
       <img src={imgURL} alt={title} className='w-[564px] h-[282px] border-2 aspect-square' />
       <div>
       <h3 className='mt-2 text-2xl leading-normal font-semibold font-palanquin'>
